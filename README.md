@@ -27,7 +27,7 @@ A responsive web application for managing product inventory, built with Next.js 
 
 1. Clone the repository:
    ```
-   git clone https://github.com/yourusername/product-inventory-dashboard.git
+   git clone https://github.com/Requisite4762/product-inventory-dashboard.git
    cd product-inventory-dashboard
    ```
 
